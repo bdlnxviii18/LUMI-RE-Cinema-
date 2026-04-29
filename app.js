@@ -341,11 +341,11 @@ class DataStore {
         isActive:true
       },
       {
-        id:'m6', title:'Mortal Kombat II', releaseDate:'May 8, 2026',
-        description:'The ultimate tournament returns. Karl Urban joins the franchise as fan-favorite Johnny Cage in this direct sequel to the 2021 reboot — more brutal, more spectacular, FINISH HIM.',
-        duration:'2h 15m', genre:'Action / Fantasy', rating:'R',
-        poster:'images/MortalKombat2.jpg',
-         isActive:true
+       id:'m6', title:'The Devil Wears Prada 2', releaseDate:'May 1, 2026',
+        description:'Nearly 20 years later, Meryl Streep, Anne Hathaway, and Emily Blunt return as Miranda Priestly faces off against her former assistant-turned-rival in the cutthroat world of high fashion.',
+        duration:'2h 10m', genre:'Comedy / Drama', rating:'PG-13',
+        poster:'images/DevilWearsPrada2.jpg',
+        isActive:true
       },
       {
         id:'m7', title:'The Mandalorian & Grogu', releaseDate:'May 22, 2026',
