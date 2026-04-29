@@ -345,6 +345,7 @@ class DataStore {
         description:'The ultimate tournament returns. Karl Urban joins the franchise as fan-favorite Johnny Cage in this direct sequel to the 2021 reboot — more brutal, more spectacular, FINISH HIM.',
         duration:'2h 15m', genre:'Action / Fantasy', rating:'R',
         poster:'images/MortalKombat2.jpg',
+         isActive:true
       },
       {
         id:'m7', title:'The Mandalorian & Grogu', releaseDate:'May 22, 2026',
